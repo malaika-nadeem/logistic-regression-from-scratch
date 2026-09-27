@@ -1,0 +1,1003 @@
+login_hour,country_match,device_known,email_matches_account,label
+23,0,1,1,impersonator
+1,0,0,1,bot
+1,0,0,0,bot
+22,1,0,0,impersonator
+2,1,0,0,impersonator
+2,0,0,0,bot
+21,0,1,1,impersonator
+1,0,0,0,impersonator
+0,0,0,0,bot
+8,1,0,1,legitimate user
+4,0,0,0,bot
+9,1,1,1,legitimate user
+6,0,0,1,impersonator
+5,0,0,0,bot
+3,0,0,0,bot
+4,0,0,0,bot
+10,1,1,1,legitimate user
+1,0,1,0,bot
+22,0,0,0,impersonator
+11,1,1,1,legitimate user
+7,1,0,0,impersonator
+11,1,1,1,legitimate user
+23,0,0,0,impersonator
+6,1,1,0,impersonator
+18,1,1,1,legitimate user
+8,1,1,0,legitimate user
+19,1,1,1,legitimate user
+23,0,0,0,bot
+0,0,0,0,bot
+5,0,0,0,bot
+22,0,0,0,impersonator
+15,1,0,1,legitimate user
+4,0,0,0,bot
+23,0,0,1,impersonator
+21,0,0,1,impersonator
+8,1,1,1,legitimate user
+2,0,1,0,impersonator
+4,0,0,0,bot
+4,0,0,1,bot
+16,1,1,1,legitimate user
+15,1,1,1,legitimate user
+9,1,1,1,legitimate user
+18,1,1,1,legitimate user
+23,0,0,1,bot
+10,1,1,1,legitimate user
+11,0,1,1,legitimate user
+23,0,0,1,bot
+23,0,0,0,impersonator
+22,1,0,0,impersonator
+1,0,0,0,bot
+23,0,0,1,bot
+2,0,0,0,bot
+12,1,1,1,legitimate user
+23,0,0,1,impersonator
+19,0,1,1,legitimate user
+17,1,1,1,legitimate user
+1,0,0,1,bot
+14,1,1,1,legitimate user
+16,1,1,1,legitimate user
+0,0,1,0,bot
+9,1,1,1,legitimate user
+11,1,1,1,legitimate user
+2,0,0,0,impersonator
+15,1,1,0,legitimate user
+21,0,0,1,impersonator
+22,0,0,0,impersonator
+23,0,0,1,impersonator
+1,1,0,0,bot
+10,1,1,1,legitimate user
+21,0,0,0,impersonator
+20,1,1,1,legitimate user
+22,1,0,0,impersonator
+2,0,0,0,bot
+23,0,0,0,bot
+18,1,0,1,legitimate user
+9,1,0,1,legitimate user
+4,0,0,0,bot
+19,0,1,1,legitimate user
+6,0,0,0,impersonator
+9,1,1,1,legitimate user
+2,0,0,0,bot
+14,1,1,1,legitimate user
+19,1,1,1,legitimate user
+19,1,0,1,legitimate user
+10,1,1,1,legitimate user
+0,0,0,1,impersonator
+2,1,1,0,bot
+1,0,0,1,bot
+23,0,0,0,bot
+8,0,1,1,legitimate user
+6,0,0,0,impersonator
+2,0,0,1,impersonator
+1,0,0,0,impersonator
+18,0,1,1,legitimate user
+23,0,0,0,bot
+23,1,1,1,impersonator
+3,0,0,0,bot
+11,1,1,1,legitimate user
+11,1,1,1,legitimate user
+1,1,0,0,bot
+2,1,0,0,bot
+6,0,0,0,impersonator
+1,0,1,0,impersonator
+15,1,1,1,legitimate user
+3,1,1,0,bot
+1,0,0,0,bot
+23,0,0,0,impersonator
+0,1,0,0,bot
+12,1,1,1,legitimate user
+5,0,0,0,bot
+21,0,1,1,impersonator
+2,0,0,1,bot
+2,0,0,0,bot
+23,0,0,0,bot
+9,1,1,1,legitimate user
+2,0,1,1,impersonator
+16,1,1,1,legitimate user
+5,0,0,0,bot
+21,0,1,0,impersonator
+16,1,1,1,legitimate user
+5,0,0,0,bot
+1,0,0,0,impersonator
+3,0,0,0,bot
+15,1,1,1,legitimate user
+8,1,1,1,legitimate user
+0,0,0,1,impersonator
+2,1,0,0,impersonator
+22,0,0,0,impersonator
+2,0,0,0,bot
+2,0,0,0,bot
+21,0,0,1,impersonator
+23,0,0,0,bot
+13,0,1,1,legitimate user
+2,1,0,1,bot
+2,0,1,1,impersonator
+16,1,0,1,legitimate user
+15,1,1,1,legitimate user
+17,1,1,1,legitimate user
+9,1,1,1,legitimate user
+11,1,1,1,legitimate user
+11,1,1,0,legitimate user
+9,1,1,1,legitimate user
+3,0,0,0,bot
+10,0,1,1,legitimate user
+1,0,0,0,bot
+0,0,0,0,bot
+3,0,1,0,bot
+8,1,1,1,legitimate user
+2,0,0,0,impersonator
+13,1,1,1,legitimate user
+2,0,0,0,bot
+17,1,1,1,legitimate user
+0,0,0,0,bot
+21,0,1,1,impersonator
+23,0,0,0,bot
+21,1,0,0,impersonator
+19,1,1,1,legitimate user
+2,0,0,0,bot
+17,1,1,1,legitimate user
+2,1,0,0,bot
+0,0,0,1,impersonator
+22,1,0,0,impersonator
+3,0,0,0,bot
+21,1,0,1,impersonator
+22,0,0,0,impersonator
+2,0,0,0,bot
+17,1,1,1,legitimate user
+0,0,0,1,bot
+16,1,1,1,legitimate user
+12,1,1,1,legitimate user
+21,0,0,1,impersonator
+23,0,0,1,impersonator
+14,1,1,1,legitimate user
+2,1,0,0,bot
+6,0,0,0,impersonator
+21,0,0,0,impersonator
+14,1,1,1,legitimate user
+13,1,1,0,legitimate user
+3,0,1,0,bot
+1,0,0,0,bot
+23,1,0,0,impersonator
+6,0,0,1,impersonator
+1,0,0,1,impersonator
+1,1,0,0,impersonator
+2,0,0,0,bot
+14,1,0,1,legitimate user
+23,0,0,1,impersonator
+22,1,0,1,impersonator
+1,0,0,0,bot
+23,0,0,0,bot
+2,1,0,0,bot
+0,0,0,0,bot
+6,0,0,0,impersonator
+8,1,1,1,legitimate user
+8,1,1,0,legitimate user
+0,0,1,1,impersonator
+11,1,0,1,legitimate user
+13,1,1,1,legitimate user
+21,0,0,0,impersonator
+13,1,0,1,legitimate user
+19,1,1,1,legitimate user
+23,0,1,1,impersonator
+3,0,0,0,bot
+23,0,0,0,impersonator
+6,0,0,0,impersonator
+0,1,0,0,impersonator
+11,1,1,1,legitimate user
+4,0,1,0,bot
+1,0,0,0,impersonator
+2,0,0,0,bot
+19,1,1,1,legitimate user
+10,1,0,1,legitimate user
+1,0,0,1,bot
+1,0,0,1,bot
+21,0,0,1,impersonator
+15,1,1,1,legitimate user
+1,0,0,0,impersonator
+19,1,1,1,legitimate user
+4,0,0,1,bot
+0,0,0,1,bot
+19,0,1,1,legitimate user
+3,0,1,0,bot
+5,0,0,0,bot
+14,1,1,1,legitimate user
+0,0,0,0,bot
+20,0,1,1,legitimate user
+23,0,0,1,impersonator
+2,1,0,1,impersonator
+0,1,0,0,bot
+0,0,0,0,impersonator
+0,0,0,0,impersonator
+2,0,0,0,bot
+21,0,0,1,impersonator
+1,0,0,0,bot
+19,1,1,1,legitimate user
+13,1,1,1,legitimate user
+8,1,1,1,legitimate user
+23,0,0,0,bot
+18,1,1,1,legitimate user
+10,1,1,1,legitimate user
+18,1,0,1,legitimate user
+20,1,1,1,legitimate user
+2,1,1,0,impersonator
+0,0,0,1,impersonator
+8,1,0,1,legitimate user
+16,1,1,1,legitimate user
+1,0,1,0,impersonator
+13,1,1,1,legitimate user
+17,1,1,1,legitimate user
+8,1,0,1,legitimate user
+20,0,1,1,legitimate user
+21,0,0,1,impersonator
+3,0,0,0,bot
+23,0,0,0,bot
+1,1,0,0,impersonator
+8,1,1,1,legitimate user
+23,1,0,0,impersonator
+1,0,0,0,bot
+1,0,0,0,bot
+20,1,1,1,legitimate user
+23,0,0,0,bot
+2,0,0,1,impersonator
+12,1,1,0,legitimate user
+18,1,1,1,legitimate user
+7,0,0,0,impersonator
+3,0,0,0,bot
+1,0,0,0,bot
+23,0,0,0,impersonator
+23,0,0,0,impersonator
+0,0,0,0,impersonator
+1,0,0,0,impersonator
+10,1,0,0,legitimate user
+5,0,0,0,bot
+17,1,1,1,legitimate user
+0,1,0,0,impersonator
+10,1,1,1,legitimate user
+16,1,1,1,legitimate user
+0,1,0,0,impersonator
+13,1,0,1,legitimate user
+4,0,0,0,bot
+7,1,0,1,impersonator
+2,0,0,1,impersonator
+9,1,1,1,legitimate user
+15,1,1,1,legitimate user
+16,1,1,1,legitimate user
+2,0,0,0,bot
+1,0,0,1,impersonator
+6,0,0,1,impersonator
+19,1,1,1,legitimate user
+23,0,0,0,bot
+3,1,0,0,bot
+1,0,0,0,bot
+6,1,1,1,impersonator
+1,0,0,0,impersonator
+2,0,0,1,impersonator
+7,0,0,0,impersonator
+3,0,0,0,bot
+21,1,0,0,impersonator
+14,0,1,1,legitimate user
+14,1,1,1,legitimate user
+21,0,1,1,impersonator
+6,0,0,1,impersonator
+1,0,0,1,impersonator
+23,0,0,0,impersonator
+2,0,0,1,bot
+23,0,0,0,bot
+6,0,0,1,impersonator
+21,1,1,0,impersonator
+1,0,1,0,bot
+0,0,0,0,impersonator
+23,1,0,0,impersonator
+2,0,0,0,impersonator
+23,1,0,0,impersonator
+2,0,0,0,bot
+22,0,0,1,impersonator
+23,0,0,0,impersonator
+14,1,1,1,legitimate user
+0,0,0,1,impersonator
+0,0,0,0,bot
+12,1,1,1,legitimate user
+17,1,1,1,legitimate user
+10,1,1,1,legitimate user
+17,0,1,1,legitimate user
+0,0,0,0,impersonator
+3,0,0,0,bot
+6,1,0,0,impersonator
+1,0,0,1,impersonator
+2,0,0,0,impersonator
+2,0,0,0,bot
+15,1,1,1,legitimate user
+0,1,0,0,bot
+12,1,1,1,legitimate user
+6,1,1,1,impersonator
+6,0,0,0,impersonator
+14,1,1,1,legitimate user
+10,1,1,1,legitimate user
+1,0,0,0,bot
+6,0,0,0,impersonator
+23,0,1,0,bot
+21,1,1,0,impersonator
+2,1,0,1,impersonator
+7,1,0,0,impersonator
+18,1,1,1,legitimate user
+12,1,1,1,legitimate user
+7,0,0,0,impersonator
+0,0,0,1,impersonator
+21,1,1,0,impersonator
+1,0,0,0,bot
+14,1,1,1,legitimate user
+1,0,0,0,bot
+9,1,1,1,legitimate user
+11,1,1,1,legitimate user
+0,1,0,0,bot
+15,1,1,1,legitimate user
+8,1,1,1,legitimate user
+14,0,1,1,legitimate user
+14,1,1,1,legitimate user
+0,0,0,0,impersonator
+18,1,1,1,legitimate user
+13,0,1,1,legitimate user
+23,0,1,1,impersonator
+7,0,0,0,impersonator
+9,1,1,1,legitimate user
+23,0,1,0,impersonator
+8,1,1,1,legitimate user
+8,1,1,1,legitimate user
+4,0,0,1,bot
+17,1,1,1,legitimate user
+2,1,0,0,impersonator
+6,0,1,1,impersonator
+14,1,1,1,legitimate user
+1,1,0,0,bot
+12,0,1,1,legitimate user
+20,1,1,1,legitimate user
+12,1,1,1,legitimate user
+22,0,0,0,impersonator
+23,0,1,0,impersonator
+9,1,1,1,legitimate user
+1,1,0,0,bot
+1,0,0,0,bot
+9,1,1,1,legitimate user
+18,1,1,1,legitimate user
+5,0,0,0,bot
+15,1,1,1,legitimate user
+15,1,0,1,legitimate user
+2,0,1,0,bot
+0,0,0,1,impersonator
+16,1,1,1,legitimate user
+1,0,0,0,bot
+4,0,0,0,bot
+12,1,1,1,legitimate user
+10,1,1,1,legitimate user
+2,0,0,0,bot
+8,1,1,1,legitimate user
+21,0,1,0,impersonator
+19,1,1,1,legitimate user
+23,0,1,1,impersonator
+2,0,1,0,impersonator
+23,0,0,0,bot
+2,0,0,1,bot
+13,1,0,1,legitimate user
+23,0,0,0,impersonator
+0,0,0,0,impersonator
+6,0,0,1,impersonator
+7,1,1,0,impersonator
+23,0,0,0,bot
+2,0,0,0,bot
+21,0,0,1,impersonator
+16,1,1,1,legitimate user
+6,0,0,1,impersonator
+22,0,0,0,impersonator
+23,0,0,0,bot
+0,0,0,0,impersonator
+13,1,1,1,legitimate user
+7,0,0,1,impersonator
+2,0,1,0,bot
+4,0,0,0,bot
+5,0,0,1,bot
+7,1,0,1,impersonator
+2,0,0,0,impersonator
+10,1,1,1,legitimate user
+23,0,0,0,bot
+6,0,1,1,impersonator
+23,0,1,1,impersonator
+1,1,0,0,impersonator
+2,0,0,0,impersonator
+9,1,0,1,legitimate user
+12,1,1,1,legitimate user
+0,0,0,0,bot
+20,1,1,1,legitimate user
+16,1,0,1,legitimate user
+23,0,1,0,impersonator
+21,0,0,0,impersonator
+23,1,0,1,impersonator
+10,1,1,1,legitimate user
+18,1,1,1,legitimate user
+17,1,1,1,legitimate user
+22,1,1,1,impersonator
+2,1,0,0,bot
+2,1,0,1,impersonator
+8,1,1,1,legitimate user
+2,0,0,0,bot
+1,0,0,1,bot
+0,0,0,0,impersonator
+6,0,0,0,impersonator
+22,0,0,0,impersonator
+2,0,0,0,bot
+14,1,0,1,legitimate user
+23,0,0,0,impersonator
+6,0,1,0,impersonator
+1,0,1,0,impersonator
+5,1,0,0,bot
+2,0,1,0,impersonator
+14,1,1,1,legitimate user
+12,1,1,1,legitimate user
+7,0,0,0,impersonator
+5,0,0,1,bot
+3,0,0,0,bot
+7,0,0,0,impersonator
+21,1,0,1,impersonator
+15,1,1,1,legitimate user
+8,1,1,1,legitimate user
+22,0,1,0,impersonator
+5,1,0,1,bot
+6,0,1,1,impersonator
+20,1,1,1,legitimate user
+19,1,1,1,legitimate user
+7,0,1,1,impersonator
+2,0,0,1,impersonator
+2,0,0,0,impersonator
+7,0,0,1,impersonator
+16,0,1,1,legitimate user
+2,0,0,0,bot
+15,1,1,1,legitimate user
+6,0,0,0,impersonator
+2,0,0,0,bot
+5,0,1,0,bot
+0,0,0,0,bot
+23,1,0,0,bot
+22,0,0,0,impersonator
+21,0,1,0,impersonator
+12,1,1,1,legitimate user
+18,1,1,1,legitimate user
+21,0,0,0,impersonator
+23,0,0,0,impersonator
+14,0,1,1,legitimate user
+19,1,1,1,legitimate user
+11,1,1,1,legitimate user
+11,1,1,1,legitimate user
+21,1,0,1,impersonator
+23,0,0,0,bot
+1,1,1,1,impersonator
+1,0,0,1,bot
+16,0,1,1,legitimate user
+23,1,0,1,impersonator
+10,1,1,1,legitimate user
+2,0,1,0,impersonator
+6,1,0,0,impersonator
+7,1,1,1,impersonator
+4,0,0,0,bot
+6,0,1,0,impersonator
+18,0,1,1,legitimate user
+2,0,1,0,impersonator
+2,0,0,0,bot
+4,0,1,0,bot
+1,1,0,0,bot
+23,0,0,0,bot
+22,0,0,0,impersonator
+0,0,0,0,bot
+23,1,0,0,bot
+18,1,1,1,legitimate user
+0,0,0,0,impersonator
+23,0,0,0,impersonator
+11,1,1,1,legitimate user
+15,1,1,1,legitimate user
+5,0,0,0,bot
+11,1,1,1,legitimate user
+13,1,0,1,legitimate user
+23,0,0,0,bot
+15,1,0,1,legitimate user
+7,0,0,1,impersonator
+23,0,0,0,bot
+1,0,0,0,bot
+7,0,0,1,impersonator
+23,0,1,0,impersonator
+1,0,0,0,impersonator
+1,0,0,0,bot
+11,1,1,1,legitimate user
+4,0,0,0,bot
+15,1,1,1,legitimate user
+21,0,0,1,impersonator
+20,1,1,1,legitimate user
+1,1,0,0,bot
+11,1,1,0,legitimate user
+2,0,1,0,bot
+21,1,0,1,impersonator
+17,1,1,1,legitimate user
+11,1,1,1,legitimate user
+3,0,0,0,bot
+1,0,0,1,impersonator
+19,1,1,1,legitimate user
+13,1,1,1,legitimate user
+18,1,1,1,legitimate user
+21,1,0,0,impersonator
+18,0,1,1,legitimate user
+0,0,0,0,bot
+21,0,1,0,impersonator
+4,0,0,0,bot
+7,0,1,0,impersonator
+17,1,1,1,legitimate user
+15,1,1,1,legitimate user
+1,1,0,0,impersonator
+1,0,0,0,bot
+9,1,0,1,legitimate user
+1,1,0,0,bot
+3,1,0,0,bot
+7,0,0,0,impersonator
+16,1,0,1,legitimate user
+10,1,1,1,legitimate user
+21,0,0,0,impersonator
+19,1,1,1,legitimate user
+2,0,0,0,bot
+2,0,0,0,bot
+2,0,0,0,bot
+9,1,1,1,legitimate user
+7,0,0,0,impersonator
+1,0,0,0,bot
+11,1,1,1,legitimate user
+22,0,1,0,impersonator
+2,0,0,0,bot
+5,0,0,0,bot
+12,0,1,1,legitimate user
+18,1,1,1,legitimate user
+5,1,0,0,bot
+1,0,0,0,bot
+12,1,1,1,legitimate user
+23,0,0,0,impersonator
+1,0,0,1,bot
+19,1,1,0,legitimate user
+1,1,0,1,impersonator
+1,0,0,1,impersonator
+23,0,0,0,bot
+15,1,1,1,legitimate user
+13,1,1,0,legitimate user
+23,1,0,0,bot
+4,1,0,0,bot
+1,1,0,0,bot
+21,1,1,0,impersonator
+7,0,0,1,impersonator
+1,1,0,1,impersonator
+17,1,1,1,legitimate user
+20,1,1,0,legitimate user
+8,1,0,1,legitimate user
+0,0,0,0,bot
+4,0,0,0,bot
+3,0,0,0,bot
+3,0,0,0,bot
+14,1,1,1,legitimate user
+15,1,1,1,legitimate user
+22,1,0,1,impersonator
+21,0,0,0,impersonator
+1,0,1,0,bot
+15,1,1,1,legitimate user
+14,1,1,1,legitimate user
+15,1,1,0,legitimate user
+18,1,1,1,legitimate user
+2,0,0,0,bot
+1,0,0,0,bot
+19,1,1,1,legitimate user
+15,1,1,1,legitimate user
+6,0,0,1,impersonator
+6,0,0,0,impersonator
+19,0,0,1,legitimate user
+19,1,1,1,legitimate user
+0,0,1,0,bot
+1,0,1,0,bot
+4,1,0,0,bot
+0,0,0,0,bot
+1,0,0,0,bot
+7,0,1,0,impersonator
+1,0,0,0,bot
+16,1,1,1,legitimate user
+4,0,0,0,bot
+16,1,1,1,legitimate user
+4,0,0,0,bot
+20,1,1,1,legitimate user
+15,1,1,0,legitimate user
+0,0,0,0,impersonator
+10,1,1,0,legitimate user
+5,0,0,0,bot
+3,0,0,0,bot
+7,0,0,0,impersonator
+2,0,0,0,bot
+21,0,0,0,impersonator
+14,1,1,1,legitimate user
+3,0,0,0,bot
+6,0,0,0,impersonator
+17,1,1,1,legitimate user
+19,1,1,1,legitimate user
+3,0,0,0,bot
+23,1,0,1,impersonator
+4,0,0,0,bot
+22,0,0,0,impersonator
+9,1,1,1,legitimate user
+18,1,1,1,legitimate user
+1,0,0,0,bot
+22,0,0,0,impersonator
+2,0,0,0,impersonator
+23,0,0,0,bot
+2,0,0,0,bot
+3,0,0,0,bot
+1,0,0,0,bot
+14,1,0,1,legitimate user
+4,1,1,0,bot
+3,0,0,0,bot
+0,1,0,1,impersonator
+3,0,0,0,bot
+23,0,0,0,bot
+6,0,1,0,impersonator
+23,0,0,0,bot
+10,1,1,1,legitimate user
+2,0,1,0,bot
+12,1,1,1,legitimate user
+23,1,0,1,bot
+23,0,0,0,bot
+5,0,0,0,bot
+16,1,1,1,legitimate user
+11,1,1,1,legitimate user
+1,0,0,0,bot
+19,1,1,1,legitimate user
+1,0,0,1,impersonator
+23,1,0,1,impersonator
+5,1,0,0,bot
+2,0,0,1,impersonator
+1,0,0,1,bot
+3,0,0,0,bot
+8,1,1,1,legitimate user
+9,1,1,1,legitimate user
+8,1,1,1,legitimate user
+0,0,0,0,impersonator
+4,0,0,0,bot
+14,1,1,1,legitimate user
+23,0,0,1,impersonator
+5,0,0,0,bot
+4,0,0,0,bot
+17,1,1,1,legitimate user
+0,1,0,0,bot
+18,1,1,1,legitimate user
+6,0,1,0,impersonator
+2,1,0,1,impersonator
+11,1,1,1,legitimate user
+16,1,0,1,legitimate user
+3,0,0,0,bot
+2,0,0,1,impersonator
+21,0,0,0,impersonator
+3,1,0,0,bot
+3,0,0,0,bot
+11,1,1,0,legitimate user
+22,0,0,1,impersonator
+14,1,1,1,legitimate user
+2,0,0,1,impersonator
+10,0,0,1,legitimate user
+3,1,0,0,bot
+22,1,0,0,impersonator
+23,0,0,0,bot
+0,0,0,1,impersonator
+4,1,0,0,bot
+1,0,0,0,impersonator
+8,1,1,1,legitimate user
+10,1,1,1,legitimate user
+0,0,0,0,bot
+3,0,0,0,bot
+5,0,0,0,bot
+23,1,1,0,impersonator
+7,0,0,1,impersonator
+23,0,0,1,impersonator
+11,1,1,1,legitimate user
+13,1,1,1,legitimate user
+8,1,0,0,legitimate user
+5,0,0,0,bot
+2,0,1,0,impersonator
+15,1,1,1,legitimate user
+5,0,0,0,bot
+14,1,1,1,legitimate user
+21,0,0,0,impersonator
+17,1,1,1,legitimate user
+19,1,1,1,legitimate user
+22,0,0,0,impersonator
+10,1,1,1,legitimate user
+20,1,0,1,legitimate user
+16,0,1,1,legitimate user
+22,0,0,0,impersonator
+10,1,1,1,legitimate user
+21,1,1,0,impersonator
+23,0,0,0,bot
+1,0,0,0,bot
+1,0,0,0,bot
+1,0,0,0,bot
+1,0,0,0,bot
+16,1,1,1,legitimate user
+7,0,0,1,impersonator
+2,0,1,0,impersonator
+0,0,0,1,bot
+1,0,0,0,bot
+23,1,0,0,bot
+2,0,0,0,bot
+13,0,1,1,legitimate user
+21,0,1,0,impersonator
+5,0,0,0,bot
+2,0,0,0,bot
+23,0,0,0,bot
+0,0,0,0,bot
+6,0,0,1,impersonator
+4,0,0,0,bot
+1,1,0,0,bot
+1,0,0,0,impersonator
+2,1,0,0,bot
+6,0,0,1,impersonator
+8,1,1,1,legitimate user
+0,0,0,0,bot
+2,0,1,1,impersonator
+22,0,1,0,impersonator
+15,0,1,1,legitimate user
+1,1,0,0,bot
+12,1,1,1,legitimate user
+1,0,0,0,bot
+22,0,0,1,impersonator
+2,0,0,0,bot
+1,0,0,0,impersonator
+2,0,1,0,bot
+4,0,0,0,bot
+8,1,1,1,legitimate user
+2,0,0,0,bot
+23,0,0,0,bot
+10,1,1,1,legitimate user
+1,1,0,0,impersonator
+22,0,0,1,impersonator
+23,0,0,0,bot
+2,0,0,0,bot
+7,1,1,0,impersonator
+8,1,0,1,legitimate user
+3,0,0,1,bot
+2,0,0,1,impersonator
+21,1,1,1,impersonator
+11,0,1,1,legitimate user
+7,0,0,0,impersonator
+7,0,0,0,impersonator
+8,0,1,0,legitimate user
+1,1,0,0,bot
+2,1,0,1,bot
+21,0,0,0,impersonator
+22,0,1,0,impersonator
+23,0,0,1,impersonator
+23,0,0,1,impersonator
+3,0,0,0,bot
+5,0,0,0,bot
+23,0,0,0,bot
+1,1,0,1,impersonator
+2,0,0,1,bot
+0,0,0,0,bot
+2,0,0,0,impersonator
+23,0,0,0,bot
+6,1,0,1,impersonator
+1,0,0,0,bot
+7,0,0,0,impersonator
+3,0,1,0,bot
+19,1,1,0,legitimate user
+14,1,1,1,legitimate user
+23,0,0,0,bot
+17,1,0,1,legitimate user
+0,1,0,1,impersonator
+8,1,1,1,legitimate user
+7,0,0,0,impersonator
+14,1,1,1,legitimate user
+23,0,0,0,impersonator
+5,0,0,0,bot
+3,0,0,0,bot
+5,0,0,1,bot
+1,0,0,0,bot
+1,0,0,0,bot
+20,1,0,1,legitimate user
+22,0,0,1,impersonator
+19,0,1,1,legitimate user
+2,0,0,0,bot
+22,0,0,1,impersonator
+2,0,0,1,bot
+1,1,0,0,impersonator
+6,0,0,0,impersonator
+3,0,0,0,bot
+10,1,1,1,legitimate user
+21,0,0,1,impersonator
+23,0,0,0,bot
+23,1,1,1,impersonator
+3,0,0,1,bot
+1,0,0,0,bot
+15,0,1,1,legitimate user
+15,1,1,1,legitimate user
+5,0,0,1,bot
+7,1,0,0,impersonator
+4,1,0,0,bot
+21,0,1,1,impersonator
+5,0,0,0,bot
+23,0,0,1,impersonator
+4,0,0,0,bot
+1,1,0,0,bot
+15,1,1,1,legitimate user
+1,1,0,0,bot
+1,1,0,0,bot
+0,0,0,0,impersonator
+6,0,0,1,impersonator
+23,0,0,1,impersonator
+12,1,1,1,legitimate user
+20,1,0,1,legitimate user
+3,0,0,0,bot
+5,0,0,0,bot
+16,1,0,1,legitimate user
+19,1,1,0,legitimate user
+12,1,1,1,legitimate user
+2,0,0,0,bot
+10,1,1,1,legitimate user
+6,0,1,0,impersonator
+3,0,0,0,bot
+6,0,1,0,impersonator
+14,1,1,1,legitimate user
+21,1,0,0,impersonator
+23,0,0,0,bot
+0,0,0,0,impersonator
+7,1,0,0,impersonator
+6,1,0,0,impersonator
+14,1,1,1,legitimate user
+9,1,1,1,legitimate user
+1,1,1,0,impersonator
+0,0,1,1,impersonator
+17,1,0,0,legitimate user
+0,0,0,0,bot
+1,0,0,0,impersonator
+2,0,0,0,bot
+3,0,0,0,bot
+19,1,1,1,legitimate user
+3,0,0,1,bot
+12,1,1,1,legitimate user
+18,1,1,1,legitimate user
+19,1,1,1,legitimate user
+1,0,0,1,impersonator
+21,0,0,0,impersonator
+19,1,1,1,legitimate user
+4,1,0,0,bot
+19,1,0,1,legitimate user
+3,0,0,0,bot
+14,0,1,1,legitimate user
+4,0,0,1,bot
+22,0,0,0,impersonator
+1,1,0,1,bot
+2,0,0,0,bot
+1,0,0,0,bot
+16,1,1,1,legitimate user
+1,1,0,1,bot
+13,1,0,1,legitimate user
+1,1,0,0,bot
+1,1,0,0,impersonator
+0,0,0,1,impersonator
+1,0,0,0,bot
+23,0,0,0,bot
+2,0,1,0,bot
+19,0,1,1,legitimate user
+18,1,1,1,legitimate user
+20,1,1,1,legitimate user
+7,1,0,0,impersonator
+23,1,0,0,bot
+22,1,1,0,impersonator
+1,0,0,0,bot
+0,0,0,1,impersonator
+2,0,0,0,bot
+5,1,0,0,bot
+16,1,1,0,legitimate user
+6,1,0,0,impersonator
+21,0,0,0,impersonator
+11,0,1,0,legitimate user
+23,0,0,1,bot
+5,1,0,0,bot
+22,0,0,0,impersonator
+11,1,1,1,legitimate user
+16,0,1,0,legitimate user
+16,0,1,1,legitimate user
+0,0,0,0,bot
+0,0,1,0,impersonator
+21,1,0,0,impersonator
+0,0,0,1,impersonator
+0,1,0,0,impersonator
+19,1,1,1,legitimate user
+1,0,0,0,impersonator
+23,0,0,0,bot
+7,0,0,1,impersonator
+0,0,0,1,impersonator
+3,0,0,0,bot
+13,1,1,1,legitimate user
+15,1,0,1,legitimate user
+16,1,1,1,legitimate user
+0,0,1,0,impersonator
+1,0,0,1,impersonator
+10,1,1,1,legitimate user
+20,1,1,1,legitimate user
+1,0,0,0,bot
+4,1,0,0,bot
+22,0,0,1,impersonator
+3,0,0,0,bot
+2,0,0,0,impersonator
+0,0,0,0,bot
+6,0,0,1,impersonator
+23,0,0,0,bot
+12,1,1,1,legitimate user
+7,0,0,0,impersonator
+3,0,0,0,bot
+1,0,0,0,impersonator
+23,0,0,0,bot
+19,1,1,1,legitimate user
+3,0,0,0,bot
+4,0,0,0,bot
+2,1,1,0,impersonator
+3,0,0,0,bot
+6,0,0,0,impersonator
+17,1,1,1,legitimate user
+23,0,0,1,impersonator
+21,0,0,1,impersonator
+5,1,0,0,bot
+0,0,0,0,bot
+14,1,1,1,legitimate user
+9,0,1,1,legitimate user
+14,0,1,1,legitimate user
+22,1,0,1,impersonator
+19,1,1,1,legitimate user
+18,1,1,1,legitimate user
+23,0,0,1,bot
+11,1,1,1,legitimate user
+2,0,0,0,impersonator
+0,0,0,0,bot
+22,1,1,0,impersonator
+1,1,0,0,impersonator
+0,1,0,0,impersonator
+3,0,1,0,bot
+8,1,1,1,legitimate user
+0,0,0,1,impersonator
+19,1,1,1,legitimate user
+22,1,0,0,impersonator
+23,0,0,0,bot
+17,1,1,1,legitimate user
+7,1,1,0,impersonator
+17,1,1,1,legitimate user
+7,0,1,0,impersonator
+13,1,1,1,legitimate user
+10,0,1,1,legitimate user
+7,0,0,1,impersonator
+10,1,1,1,legitimate user
+23,0,1,1,impersonator
+12,1,1,1,legitimate user
+4,0,0,0,bot
+8,1,1,1,legitimate user
+20,1,1,1,legitimate user
+18,0,1,1,legitimate user
+2,0,0,0,bot
+0,0,0,1,impersonator
+19,1,1,1,legitimate user
